@@ -31,11 +31,8 @@ header {
     width: 100%;
 }
 
-.logo {
-    font-size: 28px;
-    font-weight: bold;
-    color: #7F55E0;
-    font-family: "Aclonica", sans-serif;
+.logo img {
+   width: 120px;
 }
 
 nav ul {
